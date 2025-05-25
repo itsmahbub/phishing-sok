@@ -1,0 +1,6 @@
+scholarly
+free-proxy
+fake-useragent
+requests
+httpx==0.27.2
+matplotlib

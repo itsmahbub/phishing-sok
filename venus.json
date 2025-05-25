@@ -1,0 +1,2502 @@
+{
+    "SAINT": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "SERVICES": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Web Intelligence": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "Expert Syst. Appl.": {
+        "count": 14,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Web Portals": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Networks": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACM Trans. Intell. Syst. Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CEAS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "CHI": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "SysSec@DIMVA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GLOBECOM": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "iCAST": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCCS": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISSA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MALWARE": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "RAID": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "SecureComm": {
+        "count": 7,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICSC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SMC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Telecommun. Syst.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "AISec": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCCN": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICETET": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "iiWAS": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISKE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ITNG": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "NDSS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Privacy Enhancing Technologies": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SAC": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Digit. Inf. Manag.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IAS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACISP": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AusDM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CICS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CIKM-DSMM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "eCrime": {
+        "count": 11,
+        "full_name": "",
+        "rank": ""
+    },
+    "HICSS": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICML": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "LEET": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AICCSA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Financial Cryptography": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDIM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICONIP": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IMCSIT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISCC": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISDA": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISI Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Sicherheit": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WEBIST": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "WWW": {
+        "count": 13,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Commun. Mag.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Inf. Secur. Priv.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "DIMVA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "eCrime Researchers Summit": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Web Intelligence/IAT Workshops": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "USENIX Security Symposium": {
+        "count": 7,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Digit. Forensic Pract.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "APWeb Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IV": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SOUPS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Communications and Multimedia Security": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDAR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Web Eng. Technol.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ENC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ESAS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACSAC": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. Arab. J. e Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "KDD": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CollaborateCom": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AsiaCCS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Access": {
+        "count": 38,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Secur.": {
+        "count": 25,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICAIC": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Pattern Recognit. Lett.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IoTaIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEICE Trans. Inf. Syst.": {
+        "count": 6,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCSP": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICPR": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISPA/IUCC/BDCloud/SocialCom/SustainCom": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISC Int. J. Inf. Secur.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "World Wide Web": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ANTS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "WASA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Knowl. Web Intell.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICC": {
+        "count": 8,
+        "full_name": "",
+        "rank": ""
+    },
+    "ANT/MobiWIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IUCS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NCM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "LCN": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Frontiers Comput. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Inf. Process.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Vis. Informatics": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Concurr. Comput. Pract. Exp.": {
+        "count": 6,
+        "full_name": "",
+        "rank": ""
+    },
+    "IET Inf. Secur.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Inf. Sec.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "Informatica": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Web Eng.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "SN Comput. Sci.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "ARES": {
+        "count": 6,
+        "full_name": "",
+        "rank": ""
+    },
+    "DSN-W": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "EuroUSEC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "FRUCT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCSA": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "IMC": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "IT&amp;I Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SEC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SECRYPT": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "TMA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WSSE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inteligencia Artif.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Networks": {
+        "count": 7,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Semantic Web Inf. Syst.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "PeerJ Comput. Sci.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "EAI Endorsed Trans. Scalable Inf. Syst.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSCI": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICOIN": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Syst. Res.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Intell. Fuzzy Syst.": {
+        "count": 7,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Netw. Syst. Manag.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Wirel. Pers. Commun.": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "DSC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICEIC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GALA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MAPR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MILCOM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "TrustCom": {
+        "count": 6,
+        "full_name": "",
+        "rank": ""
+    },
+    "WorldCIST": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Comput. Inf. Technol.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Electron. Libr.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Ambient Intell. Humaniz. Comput.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "\u8ba1\u7b97\u673a\u79d1\u5b66": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Ind. Informatics": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACAI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICASSP": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCCNT": {
+        "count": 9,
+        "full_name": "",
+        "rank": ""
+    },
+    "IJCNN": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISI": {
+        "count": 9,
+        "full_name": "",
+        "rank": ""
+    },
+    "Autom. Control. Comput. Sci.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "EURASIP J. Wirel. Commun. Netw.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Future Gener. Comput. Syst.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. High Perform. Comput. Netw.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Inf. Comput. Secur.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Medical Informatics": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Netw. Secur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Trans. Comput. Collect. Intell.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IWSEC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "LADC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SOUPS @ USENIX Security Symposium": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "UEMCON": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Secur. Commun. Networks": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "AINTEC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "NTMS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Data Min. Knowl. Discov.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Hum. Factors": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Inf. Secur. Appl.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "IWSPA@CODASPY": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "COMPSAC": {
+        "count": 7,
+        "full_name": "",
+        "rank": ""
+    },
+    "ESORICS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICNCC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IIKI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NaNA": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSET @ USENIX Security Symposium": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Hybrid Intell. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CCIS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCCI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IMIS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Law Secur. Rev.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Inf. Process. Syst.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "BigData Congress": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CCS": {
+        "count": 9,
+        "full_name": "",
+        "rank": ""
+    },
+    "CNS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "CD-ARES": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CODASPY": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSOC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDSE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISPACS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SoICT": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Appl. Soft Comput.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "GPC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Symposium on Security and Privacy": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEICE Trans. Commun.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Inf. Sci. Eng.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDCS Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICMLA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACM Trans. Inf. Syst. Secur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AINA": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "AISC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICFCE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICMLC": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "WebApps": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WebQuality@WWW": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Computers, Privacy and Data Protection": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACM Trans. Internet Techn.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WKDD": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Appl. Intell.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SIGKDD Explor.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICNC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "INCoS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "WISM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Managing Information Risk and the Economics of Security": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Dependable Secur. Comput.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Fusion": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Clust. Comput.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Cyber Secur. Appl.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DTRAP": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Intell. Decis. Technol.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Netw. Lett.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Comput. Intell. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Online Biomed. Eng.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Internet Things J.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Circuits Syst. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Theor. Appl. Electron. Commer. Res.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Multim. Tools Appl.": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "Signal Image Video Process.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Symmetry": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Inf. Forensics Secur.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Supercomput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Netw. Sci. Eng.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Wirel. Networks": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AAAI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AIIoT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "COMSNETS": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "EuroS&amp;P Workshops": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "GCCE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GoodIT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICAART": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICIC": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "INISTA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SIGMETRICS/Performance": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SIU": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SNSFAIT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SoMeT": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SVCC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "VTC Spring": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "VTC Fall": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Commun.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Syst. Sci. Eng.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Intell. Converged Networks": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Comput. Intell. Appl.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Interact. Mob. Technol.": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. King Saud Univ. Comput. Inf. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Neural Comput. Appl.": {
+        "count": 6,
+        "full_name": "",
+        "rank": ""
+    },
+    "Sensors": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Netw. Serv. Manag.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AIMLR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "APWG.EU Tech": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Big Data": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AISec@CCS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CISIS-ICEUTE": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSCWD": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CyberC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DeSE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DSIT": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "FICTA": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "HPCC/DSS/SmartCity/DependSys": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IC3": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IC3I": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICACT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCST": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICMLCA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICSECS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IJCCI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "InterSol": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IntSol": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISDFS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISED": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISNCC": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "MetroXRAINE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NetSoft": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "RIVF": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "RoEduNet": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SSS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Adv. Eng. Softw.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Electr. Eng.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Intell.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Cryptogr.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Cybersecur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Digit.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Electron. Commun. Eur. Assoc. Softw. Sci. Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Future Internet": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Adv. Intell. Paradigms": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Sci.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Electronic Imaging": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Ubiquitous Syst. Pervasive Networks": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Knowl. Based Syst.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Secur. Priv.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "WISA": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CACML": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CCRIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HCI": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICACIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICAI": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICANN": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICBDT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICWE": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IDSTA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEA/AIE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SAI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SmartNets": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "TPS-ISA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "TransAI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WCNC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE DataPort": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Eng. Appl. Artif. Intell.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Entropy": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Manag.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Ad Hoc Ubiquitous Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Inf. Priv. Secur. Integr.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Intell. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Inf. Technol. Web Eng.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Iran J. Comput. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Cyber Secur. Mobil.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Mach. Learn. Knowl. Extr.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Peer-to-Peer Netw. Appl.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Semantic Web": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACeS": {
+        "count": 4,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACOMP": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE BigData": {
+        "count": 8,
+        "full_name": "",
+        "rank": ""
+    },
+    "BlackSeaCom": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CASE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CCNC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CCWC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "CISS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "COINS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSNet": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CyberSA": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Deep-BDB": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DEXA Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ECAI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "EvoApplications": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "FNC/MobiSPC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HAIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HPSR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCP": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICFNDS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IC-NIDC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICYRIME": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISPA/BDCloud/SocialCom/SustainCom": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "LOD": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NEW2AN/ruSMART": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NISS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "PerCom Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SBP-BRiMS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SP": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SSCI": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "TrustBus": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WI/IAT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Balt. J. Mod. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. Arab J. Inf. Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IET Networks": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Electron. Bus.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Electron. Secur. Digit. Forensics": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Uncertain. Fuzziness Knowl. Based Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "KSII Trans. Internet Inf. Syst.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Neural Networks": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Comput. Soc. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Traitement du Signal": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Webology": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACSW": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "DB&amp;IS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inscrypt": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CANDAR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE ICBC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICCDA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDCS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICISSP": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICITEE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DoCEIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IntelliSys": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IWBIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MIND": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SACMAT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SIN": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SNAMS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SoCPaR": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Adaptive Autonomous Secure Cyber Systems": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Data Science in Cybersecurity and Cyberthreat Intelligence": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Aust. J. Intell. Inf. Process. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "First Monday": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Artif. Intell. Tools": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Ind. Manag. Data Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Pervasive Mob. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Soft Comput.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ADBIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AHFE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSCML": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "EDCC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GLOBECOM Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HAISA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICDCIT": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICICS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IDEAS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "KMO": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ML4CS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "PST": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SECITC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SSCC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "TrustCom/BigDataSE": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "WI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Sci. China Inf. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEICE Trans. Fundam. Electron. Commun. Comput. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Multim. Data Eng. Manag.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Comput. Secur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Secur. J. A Glob. Perspect.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Multim. Inf. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Syst. Inf. Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Wirel. Commun. Mob. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CLOSER": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CNCERT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DMBD": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DSN Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "FedCSIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GECON": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICACCI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICO": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IP&amp;C": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MLICOM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "PRDC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SmartCom": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Symposium on Security and Privacy Workshops": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "WIMS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Social Network Based Big Data Analysis and Applications": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Behav. Inf. Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. J.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Commun. Surv. Tutorials": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Turkish J. Electr. Eng. Comput. Sci.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Hum. centric Comput. Inf. Sci.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Bus. Intell. Data Min.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Mob. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "APCC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "AsiaJCIS": {
+        "count": 3,
+        "full_name": "",
+        "rank": ""
+    },
+    "ASONAM": {
+        "count": 5,
+        "full_name": "",
+        "rank": ""
+    },
+    "CPSS@AsiaCCS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CIC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSE/EUC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CYBCONF": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DASC/PiCom/DataCom/CyberSciTech": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICISS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IRI": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SSN": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Hum. Behav.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Decis. Support Syst.": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "IBM J. Res. Dev.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Int. J. Parallel Program.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Inf. Knowl. Manag.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Comput. Virol. Hacking Tech.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "MIST@CCS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CEC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSA/CUTE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "GI-Jahrestagung": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICIA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "INFOCOM": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NSS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SYNASC": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Trustcom/BigDataSE/ISPA": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "OnSt@WebSci": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "UCI Machine Learning Repository": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "Comput. Sci. Rev.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Manag. Inf. Syst.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IEEE Trans. Serv. Comput.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ACIIDS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "AMCIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSCloud": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HotWeb": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HPCS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "World Conference on Information Security Education": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SLDS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SSIC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Manag. Comput. Secur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "J. Internet Serv. Inf. Secur.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "HotSoS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICITST": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "SERE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Inf. Media Technol.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "IT Prof.": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ADCONS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "DSN": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ICITCS": {
+        "count": 2,
+        "full_name": "",
+        "rank": ""
+    },
+    "PACIS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "SocProS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "STAST": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "BD3@VLDB": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "Datenschutz und Datensicherheit": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CHI Extended Abstracts": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "CSS": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISCIT": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "ISSRE": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "NPC": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    },
+    "RV": {
+        "count": 1,
+        "full_name": "",
+        "rank": ""
+    }
+}

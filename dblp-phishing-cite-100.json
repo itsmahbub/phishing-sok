@@ -1,0 +1,904 @@
+[
+    {
+        "@score": "2",
+        "@id": "5184954",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "29/7562-1",
+                        "text": "Sadia Afroz 0001"
+                    },
+                    {
+                        "@pid": "93/655",
+                        "text": "Rachel Greenstadt"
+                    }
+                ]
+            },
+            "title": "PhishZoo: Detecting Phishing Websites by Looking at Them.",
+            "venue": "ICSC",
+            "pages": "368-375",
+            "year": "2011",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/semco/AfrozG11",
+            "doi": "10.1109/ICSC.2011.52",
+            "ee": "https://doi.org/10.1109/ICSC.2011.52",
+            "url": "https://dblp.org/rec/conf/semco/AfrozG11",
+            "citation_count": 103
+        },
+        "url": "URL#5184954"
+    },
+    {
+        "@score": "2",
+        "@id": "5327559",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "23/3639",
+                        "text": "Aaron Blum"
+                    },
+                    {
+                        "@pid": "91/8856",
+                        "text": "Brad Wardman"
+                    },
+                    {
+                        "@pid": "79/3530",
+                        "text": "Thamar Solorio"
+                    },
+                    {
+                        "@pid": "41/3033",
+                        "text": "Gary Warner"
+                    }
+                ]
+            },
+            "title": "Lexical feature based phishing URL detection using online learning.",
+            "venue": "AISec",
+            "pages": "54-60",
+            "year": "2010",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ccs/BlumWSW10",
+            "doi": "10.1145/1866423.1866434",
+            "ee": "https://doi.org/10.1145/1866423.1866434",
+            "url": "https://dblp.org/rec/conf/ccs/BlumWSW10",
+            "citation_count": 120
+        },
+        "url": "URL#5327559"
+    },
+    {
+        "@score": "2",
+        "@id": "5599165",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "28/5664",
+                        "text": "Justin Ma"
+                    },
+                    {
+                        "@pid": "66/6611",
+                        "text": "Lawrence K. Saul"
+                    },
+                    {
+                        "@pid": "s/StefanSavage",
+                        "text": "Stefan Savage"
+                    },
+                    {
+                        "@pid": "v/GeoffreyMVoelker",
+                        "text": "Geoffrey M. Voelker"
+                    }
+                ]
+            },
+            "title": "Identifying suspicious URLs: an application of large-scale online learning.",
+            "venue": "ICML",
+            "pages": "681-688",
+            "year": "2009",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icml/MaSSV09",
+            "doi": "10.1145/1553374.1553462",
+            "ee": "https://doi.org/10.1145/1553374.1553462",
+            "url": "https://dblp.org/rec/conf/icml/MaSSV09",
+            "citation_count": 288
+        },
+        "url": "URL#5599165"
+    },
+    {
+        "@score": "2",
+        "@id": "5770514",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/1108",
+                        "text": "Serge Egelman"
+                    },
+                    {
+                        "@pid": "03/1595",
+                        "text": "Lorrie Faith Cranor"
+                    },
+                    {
+                        "@pid": "h/JasonIHong",
+                        "text": "Jason I. Hong"
+                    }
+                ]
+            },
+            "title": "You&apos;ve been warned: an empirical study of the effectiveness of web browser phishing warnings.",
+            "venue": "CHI",
+            "pages": "1065-1074",
+            "year": "2008",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/chi/EgelmanCH08",
+            "doi": "10.1145/1357054.1357219",
+            "ee": "https://doi.org/10.1145/1357054.1357219",
+            "url": "https://dblp.org/rec/conf/chi/EgelmanCH08",
+            "citation_count": 307
+        },
+        "url": "URL#5770514"
+    },
+    {
+        "@score": "5",
+        "@id": "5623479",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "28/5664",
+                        "text": "Justin Ma"
+                    },
+                    {
+                        "@pid": "66/6611",
+                        "text": "Lawrence K. Saul"
+                    },
+                    {
+                        "@pid": "s/StefanSavage",
+                        "text": "Stefan Savage"
+                    },
+                    {
+                        "@pid": "v/GeoffreyMVoelker",
+                        "text": "Geoffrey M. Voelker"
+                    }
+                ]
+            },
+            "title": "Beyond blacklists: learning to detect malicious web sites from suspicious URLs.",
+            "venue": "KDD",
+            "pages": "1245-1254",
+            "year": "2009",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kdd/MaSSV09",
+            "doi": "10.1145/1557019.1557153",
+            "ee": "https://doi.org/10.1145/1557019.1557153",
+            "url": "https://dblp.org/rec/conf/kdd/MaSSV09",
+            "citation_count": 468
+        },
+        "url": "URL#5623479"
+    },
+    {
+        "@score": "3",
+        "@id": "1669689",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "240/3134",
+                        "text": "L. Lakshmi 0001"
+                    },
+                    {
+                        "@pid": "236/2098",
+                        "text": "M. Purushotham Reddy"
+                    },
+                    {
+                        "@pid": "294/1050",
+                        "text": "Chukka Santhaiah"
+                    },
+                    {
+                        "@pid": "294/1408",
+                        "text": "U. Janardhan Reddy"
+                    }
+                ]
+            },
+            "title": "Smart Phishing Detection in Web Pages using Supervised Deep Learning Classification and Optimization Technique ADAM.",
+            "venue": "Wirel. Pers. Commun.",
+            "volume": "118",
+            "number": "4",
+            "pages": "3549-3564",
+            "year": "2021",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/wpc/LakshmiRSR21",
+            "doi": "10.1007/S11277-021-08196-7",
+            "ee": "https://doi.org/10.1007/s11277-021-08196-7",
+            "url": "https://dblp.org/rec/journals/wpc/LakshmiRSR21",
+            "citation_count": 121
+        },
+        "url": "URL#1669689"
+    },
+    {
+        "@score": "3",
+        "@id": "2431553",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/7536",
+                        "text": "Yukun Li"
+                    },
+                    {
+                        "@pid": "119/6126",
+                        "text": "Zhenguo Yang"
+                    },
+                    {
+                        "@pid": "83/6331-14",
+                        "text": "Xu Chen 0014"
+                    },
+                    {
+                        "@pid": "231/1923",
+                        "text": "Huaping Yuan"
+                    },
+                    {
+                        "@pid": "l/WenyinLiu",
+                        "text": "Wenyin Liu"
+                    }
+                ]
+            },
+            "title": "A stacking model using URL and HTML features for phishing webpage detection.",
+            "venue": "Future Gener. Comput. Syst.",
+            "volume": "94",
+            "pages": "27-39",
+            "year": "2019",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/fgcs/LiYCYL19",
+            "doi": "10.1016/J.FUTURE.2018.11.004",
+            "ee": "https://doi.org/10.1016/j.future.2018.11.004",
+            "url": "https://dblp.org/rec/journals/fgcs/LiYCYL19",
+            "citation_count": 133
+        },
+        "url": "URL#2431553"
+    },
+    {
+        "@score": "3",
+        "@id": "4937313",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/9185",
+                        "text": "Luca Invernizzi"
+                    },
+                    {
+                        "@pid": "46/7062",
+                        "text": "Paolo Milani Comparetti"
+                    },
+                    {
+                        "@pid": "340/2386",
+                        "text": "Stefano Benvenuti"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "36/2855",
+                        "text": "Marco Cova"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "EvilSeed: A Guided Approach to Finding Malicious Web Pages.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "428-442",
+            "year": "2012",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/InvernizziC12",
+            "doi": "10.1109/SP.2012.33",
+            "ee": "https://doi.org/10.1109/SP.2012.33",
+            "url": "https://dblp.org/rec/conf/sp/InvernizziC12",
+            "citation_count": 106
+        },
+        "url": "URL#4937313"
+    },
+    {
+        "@score": "3",
+        "@id": "5057779",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/2125",
+                        "text": "Guang Xiang"
+                    },
+                    {
+                        "@pid": "h/JasonIHong",
+                        "text": "Jason I. Hong"
+                    },
+                    {
+                        "@pid": "r/CarolynPensteinRose",
+                        "text": "Carolyn P. Ros\u00e9"
+                    },
+                    {
+                        "@pid": "03/1595",
+                        "text": "Lorrie Faith Cranor"
+                    }
+                ]
+            },
+            "title": "CANTINA+: A Feature-Rich Machine Learning Framework for Detecting Phishing Web Sites.",
+            "venue": "ACM Trans. Inf. Syst. Secur.",
+            "volume": "14",
+            "number": "2",
+            "pages": "21:1-21:28",
+            "year": "2011",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/tissec/XiangHRC11",
+            "doi": "10.1145/2019599.2019606",
+            "ee": "https://doi.org/10.1145/2019599.2019606",
+            "url": "https://dblp.org/rec/journals/tissec/XiangHRC11",
+            "citation_count": 342
+        },
+        "url": "URL#5057779"
+    },
+    {
+        "@score": "3",
+        "@id": "5202059",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/9376",
+                        "text": "Davide Canali"
+                    },
+                    {
+                        "@pid": "36/2855",
+                        "text": "Marco Cova"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    }
+                ]
+            },
+            "title": "Prophiler: a fast filter for the large-scale detection of malicious web pages.",
+            "venue": "WWW",
+            "pages": "197-206",
+            "year": "2011",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/CanaliCVK11",
+            "doi": "10.1145/1963405.1963436",
+            "ee": "https://doi.org/10.1145/1963405.1963436",
+            "url": "https://dblp.org/rec/conf/www/CanaliCVK11",
+            "citation_count": 227
+        },
+        "url": "URL#5202059"
+    },
+    {
+        "@score": "3",
+        "@id": "6062441",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/722-2",
+                        "text": "Yue Zhang 0002"
+                    },
+                    {
+                        "@pid": "h/JasonIHong",
+                        "text": "Jason I. Hong"
+                    },
+                    {
+                        "@pid": "03/1595",
+                        "text": "Lorrie Faith Cranor"
+                    }
+                ]
+            },
+            "title": "Cantina: a content-based approach to detecting phishing web sites.",
+            "venue": "WWW",
+            "pages": "639-648",
+            "year": "2007",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/www/ZhangHC07",
+            "doi": "10.1145/1242572.1242659",
+            "ee": "https://doi.org/10.1145/1242572.1242659",
+            "url": "https://dblp.org/rec/conf/www/ZhangHC07",
+            "citation_count": 472
+        },
+        "url": "URL#6062441"
+    },
+    {
+        "@score": "3",
+        "@id": "6129648",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/4742",
+                        "text": "Anthony Y. Fu"
+                    },
+                    {
+                        "@pid": "l/WenyinLiu",
+                        "text": "Liu Wenyin"
+                    },
+                    {
+                        "@pid": "d/XiaotieDeng",
+                        "text": "Xiaotie Deng"
+                    }
+                ]
+            },
+            "title": "Detecting Phishing Web Pages with Visual Similarity Assessment Based on Earth Mover&apos;s Distance (EMD).",
+            "venue": "IEEE Trans. Dependable Secur. Comput.",
+            "volume": "3",
+            "number": "4",
+            "pages": "301-311",
+            "year": "2006",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/tdsc/FuWD06",
+            "doi": "10.1109/TDSC.2006.50",
+            "ee": "https://doi.org/10.1109/TDSC.2006.50",
+            "url": "https://dblp.org/rec/journals/tdsc/FuWD06",
+            "citation_count": 193
+        },
+        "url": "URL#6129648"
+    },
+    {
+        "@score": "2",
+        "@id": "1979642",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/4105-6",
+                        "text": "Wei Wei 0006"
+                    },
+                    {
+                        "@pid": "64/391",
+                        "text": "Qiao Ke"
+                    },
+                    {
+                        "@pid": "177/7618",
+                        "text": "Jakub Nowak"
+                    },
+                    {
+                        "@pid": "94/904",
+                        "text": "Marcin Korytkowski"
+                    },
+                    {
+                        "@pid": "64/2091",
+                        "text": "Rafal Scherer"
+                    },
+                    {
+                        "@pid": "97/8296",
+                        "text": "Marcin Wozniak"
+                    }
+                ]
+            },
+            "title": "Accurate and fast URL phishing detector: A convolutional neural network approach.",
+            "venue": "Comput. Networks",
+            "volume": "178",
+            "pages": "107275",
+            "year": "2020",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/cn/WeiKNKSW20",
+            "doi": "10.1016/J.COMNET.2020.107275",
+            "ee": "https://doi.org/10.1016/j.comnet.2020.107275",
+            "url": "https://dblp.org/rec/journals/cn/WeiKNKSW20",
+            "citation_count": 118
+        },
+        "url": "URL#1979642"
+    },
+    {
+        "@score": "2",
+        "@id": "2024712",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/6419",
+                        "text": "Tie Li"
+                    },
+                    {
+                        "@pid": "84/5885",
+                        "text": "Gang Kou"
+                    },
+                    {
+                        "@pid": "58/2865-1",
+                        "text": "Yi Peng 0001"
+                    }
+                ]
+            },
+            "title": "Improving malicious URLs detection via feature engineering: Linear and nonlinear space transformation methods.",
+            "venue": "Inf. Syst.",
+            "volume": "91",
+            "pages": "101494",
+            "year": "2020",
+            "type": "Journal Articles",
+            "access": "open",
+            "key": "journals/is/LiKP20",
+            "doi": "10.1016/J.IS.2020.101494",
+            "ee": "https://doi.org/10.1016/j.is.2020.101494",
+            "url": "https://dblp.org/rec/journals/is/LiKP20",
+            "citation_count": 114
+        },
+        "url": "URL#2024712"
+    },
+    {
+        "@score": "2",
+        "@id": "2392412",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/5443-14",
+                        "text": "Peng Yang 0014"
+                    },
+                    {
+                        "@pid": "204/8302",
+                        "text": "Guangzhen Zhao"
+                    },
+                    {
+                        "@pid": "18/6295",
+                        "text": "Peng Zeng"
+                    }
+                ]
+            },
+            "title": "Phishing Website Detection Based on Multidimensional Features Driven by Deep Learning.",
+            "venue": "IEEE Access",
+            "volume": "7",
+            "pages": "15196-15209",
+            "year": "2019",
+            "type": "Journal Articles",
+            "access": "open",
+            "key": "journals/access/YangZZ19",
+            "doi": "10.1109/ACCESS.2019.2892066",
+            "ee": "https://doi.org/10.1109/ACCESS.2019.2892066",
+            "url": "https://dblp.org/rec/journals/access/YangZZ19",
+            "citation_count": 175
+        },
+        "url": "URL#2392412"
+    },
+    {
+        "@score": "2",
+        "@id": "2430011",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "74/3795",
+                        "text": "Ozgur Koray Sahingoz"
+                    },
+                    {
+                        "@pid": "147/2863",
+                        "text": "Ebubekir Buber"
+                    },
+                    {
+                        "@pid": "227/7872",
+                        "text": "\u00d6nder Demir"
+                    },
+                    {
+                        "@pid": "88/285",
+                        "text": "Banu Diri"
+                    }
+                ]
+            },
+            "title": "Machine learning based phishing detection from URLs.",
+            "venue": "Expert Syst. Appl.",
+            "volume": "117",
+            "pages": "345-357",
+            "year": "2019",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/eswa/SahingozBDD19",
+            "doi": "10.1016/J.ESWA.2018.09.029",
+            "ee": "https://doi.org/10.1016/j.eswa.2018.09.029",
+            "url": "https://dblp.org/rec/journals/eswa/SahingozBDD19",
+            "citation_count": 401
+        },
+        "url": "URL#2430011"
+    },
+    {
+        "@score": "2",
+        "@id": "2486334",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "198/8743",
+                        "text": "Routhu Srinivasa Rao"
+                    },
+                    {
+                        "@pid": "05/7690",
+                        "text": "Alwyn Roshan Pais"
+                    }
+                ]
+            },
+            "title": "Detection of phishing websites using an efficient feature-based machine learning framework.",
+            "venue": "Neural Comput. Appl.",
+            "volume": "31",
+            "number": "8",
+            "pages": "3851-3873",
+            "year": "2019",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/nca/RaoP19",
+            "doi": "10.1007/S00521-017-3305-0",
+            "ee": "https://doi.org/10.1007/s00521-017-3305-0",
+            "url": "https://dblp.org/rec/journals/nca/RaoP19",
+            "citation_count": 153
+        },
+        "url": "URL#2486334"
+    },
+    {
+        "@score": "2",
+        "@id": "2924866",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/6723",
+                        "text": "Ankit Kumar Jain"
+                    },
+                    {
+                        "@pid": "185/9576",
+                        "text": "Brij B. Gupta"
+                    }
+                ]
+            },
+            "title": "Towards detection of phishing websites on client-side using machine learning based approach.",
+            "venue": "Telecommun. Syst.",
+            "volume": "68",
+            "number": "4",
+            "pages": "687-700",
+            "year": "2018",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/telsys/JainG18",
+            "doi": "10.1007/S11235-017-0414-0",
+            "ee": "https://doi.org/10.1007/s11235-017-0414-0",
+            "url": "https://dblp.org/rec/journals/telsys/JainG18",
+            "citation_count": 124
+        },
+        "url": "URL#2924866"
+    },
+    {
+        "@score": "2",
+        "@id": "3347573",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "32/10814",
+                        "text": "Alejandro Correa Bahnsen"
+                    },
+                    {
+                        "@pid": "201/6007",
+                        "text": "Eduardo Contreras Bohorquez"
+                    },
+                    {
+                        "@pid": "181/3680",
+                        "text": "Sergio Villegas"
+                    },
+                    {
+                        "@pid": "91/7340",
+                        "text": "Javier Vargas"
+                    },
+                    {
+                        "@pid": "34/2403",
+                        "text": "Fabio A. Gonz\u00e1lez 0001"
+                    }
+                ]
+            },
+            "title": "Classifying phishing URLs using recurrent neural networks.",
+            "venue": "eCrime",
+            "pages": "1-8",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ecrime/BahnsenBVVG17",
+            "doi": "10.1109/ECRIME.2017.7945048",
+            "ee": "https://doi.org/10.1109/ECRIME.2017.7945048",
+            "url": "https://dblp.org/rec/conf/ecrime/BahnsenBVVG17",
+            "citation_count": 104
+        },
+        "url": "URL#3347573"
+    },
+    {
+        "@score": "2",
+        "@id": "3853201",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/8940",
+                        "text": "Kang-Leng Chiew"
+                    },
+                    {
+                        "@pid": "180/6586",
+                        "text": "Ee Hung Chang"
+                    },
+                    {
+                        "@pid": "117/9069",
+                        "text": "San-Nah Sze"
+                    },
+                    {
+                        "@pid": "173/2871",
+                        "text": "Wei King Tiong"
+                    }
+                ]
+            },
+            "title": "Utilisation of website logo for phishing detection.",
+            "venue": "Comput. Secur.",
+            "volume": "54",
+            "pages": "16-26",
+            "year": "2015",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/compsec/ChiewCST15",
+            "doi": "10.1016/J.COSE.2015.07.006",
+            "ee": "https://doi.org/10.1016/j.cose.2015.07.006",
+            "url": "https://dblp.org/rec/journals/compsec/ChiewCST15",
+            "citation_count": 106
+        },
+        "url": "URL#3853201"
+    },
+    {
+        "@score": "2",
+        "@id": "4172420",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/1634",
+                        "text": "Rami Mustafa A. Mohammad"
+                    },
+                    {
+                        "@pid": "77/778",
+                        "text": "Fadi A. Thabtah"
+                    },
+                    {
+                        "@pid": "m/TLMcCluskey",
+                        "text": "Lee McCluskey"
+                    }
+                ]
+            },
+            "title": "Intelligent rule-based phishing websites classification.",
+            "venue": "IET Inf. Secur.",
+            "volume": "8",
+            "number": "3",
+            "pages": "153-160",
+            "year": "2014",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/iet-ifs/MohammadTM14",
+            "doi": "10.1049/IET-IFS.2013.0202",
+            "ee": "https://doi.org/10.1049/iet-ifs.2013.0202",
+            "url": "https://dblp.org/rec/journals/iet-ifs/MohammadTM14",
+            "citation_count": 147
+        },
+        "url": "URL#4172420"
+    },
+    {
+        "@score": "2",
+        "@id": "4209621",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/1634",
+                        "text": "Rami Mustafa A. Mohammad"
+                    },
+                    {
+                        "@pid": "77/778",
+                        "text": "Fadi A. Thabtah"
+                    },
+                    {
+                        "@pid": "m/TLMcCluskey",
+                        "text": "Lee McCluskey"
+                    }
+                ]
+            },
+            "title": "Predicting phishing websites based on self-structuring neural network.",
+            "venue": "Neural Comput. Appl.",
+            "volume": "25",
+            "number": "2",
+            "pages": "443-458",
+            "year": "2014",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/nca/MohammadTM14",
+            "doi": "10.1007/S00521-013-1490-Z",
+            "ee": "https://doi.org/10.1007/s00521-013-1490-z",
+            "url": "https://dblp.org/rec/journals/nca/MohammadTM14",
+            "citation_count": 205
+        },
+        "url": "URL#4209621"
+    },
+    {
+        "@score": "2",
+        "@id": "4519140",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/5702-1",
+                        "text": "Sangho Lee 0001"
+                    },
+                    {
+                        "@pid": "46/2217",
+                        "text": "Jong Kim 0001"
+                    }
+                ]
+            },
+            "title": "WarningBird: A Near Real-Time Detection System for Suspicious URLs in Twitter Stream.",
+            "venue": "IEEE Trans. Dependable Secur. Comput.",
+            "volume": "10",
+            "number": "3",
+            "pages": "183-195",
+            "year": "2013",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/tdsc/LeeK13",
+            "doi": "10.1109/TDSC.2013.3",
+            "ee": "https://doi.org/10.1109/TDSC.2013.3",
+            "url": "https://dblp.org/rec/journals/tdsc/LeeK13",
+            "citation_count": 144
+        },
+        "url": "URL#4519140"
+    },
+    {
+        "@score": "2",
+        "@id": "4826862",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/4119-1",
+                        "text": "Zhou Li 0001"
+                    },
+                    {
+                        "@pid": "66/6560",
+                        "text": "Kehuan Zhang"
+                    },
+                    {
+                        "@pid": "62/5767",
+                        "text": "Yinglian Xie"
+                    },
+                    {
+                        "@pid": "44/3505-2",
+                        "text": "Fang Yu 0002"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    }
+                ]
+            },
+            "title": "Knowing your enemy: understanding and detecting malicious web advertising.",
+            "venue": "CCS",
+            "pages": "674-686",
+            "year": "2012",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ccs/LiZXYW12",
+            "doi": "10.1145/2382196.2382267",
+            "ee": "https://doi.org/10.1145/2382196.2382267",
+            "url": "https://dblp.org/rec/conf/ccs/LiZXYW12",
+            "citation_count": 148
+        },
+        "url": "URL#4826862"
+    }
+]
